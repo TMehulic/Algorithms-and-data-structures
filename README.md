@@ -1,2 +1,2 @@
-# Algorithms-and-data-structures
+# Algorithms and data structures
 Faculty of Electrical Engineering Sarajevo
